@@ -1,6 +1,6 @@
 //----------------------------------------------------------------------------------
 //
-// Project 14.1 from "Programming Pebble in C"
+// Project 14.1 from "Learning C with Pebble"
 // 
 // Rob Spiess, June 2016
 //
